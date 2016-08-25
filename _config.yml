@@ -2,6 +2,7 @@
 title: Lee Reviews
 email: iamjumanji@hotmail.com
 description: A negative blog about films I like
+baseurl: '/leereviews'
 url: "http://webconfs.me" # the base hostname & protocol for your site
 twitter_username: flashfranklin
 gems: [jekyll-paginate]
