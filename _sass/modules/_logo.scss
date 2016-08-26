@@ -5,10 +5,10 @@
 .site-logo {
 	text-transform: uppercase;
 	font-weight: $font-weight--bold;
-	font-size: em(20px);
+	font-size: em(30px);
 	display: block;
 	text-align: center;
-	color: darken($color-primary, 15%);
+	color: #cc3333;
 	@include mq(small) {
 	  margin-top: 20px;
 	  margin-bottom: 20px; 
