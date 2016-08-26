@@ -3,12 +3,9 @@
 // ==========================================================================
 
 .hero {
+	
+	img: url('#{$path--rel}/lee-profile-1.png'),
+	            linear-gradient(#ff6666, #ffff66, #75da8f, #77cae9);
+	margin-bottom: em(50px);
 	height: 100%;
 	width: 100%;
-	background: url('#{$path--rel}/lee-profile-1.png'),
-	            linear-gradient(#ff6666, #ffff66, #75da8f, #77cae9);
-	background-blend-mode: multiply;
-	background-repeat: no-repeat;
-	background-size: cover;
-	margin-bottom: em(50px);
-}
